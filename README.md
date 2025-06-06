@@ -5,7 +5,7 @@
 **Entreprise fictive :** CHU de Ynov  
 **Formation :** Ynov Informatique - Bachelor 3  
 **UF :** Spécialité Cybersécurité  
-**Équipe :** 3 personnes : Nils JAUDON Clement GARCIA Yann BLANC
+**Équipe :** Nils JAUDON Clement GARCIA Yann BLANC
 
 
 ### 📋 Description
