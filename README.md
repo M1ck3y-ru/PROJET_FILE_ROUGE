@@ -5,7 +5,8 @@
 **Entreprise fictive :** CHU de Ynov  
 **Formation :** Ynov Informatique - Bachelor 3  
 **UF :** Spécialité Cybersécurité  
-**Équipe :** 2 personnes
+**Équipe :** 3 personnes
+**Nils JAUDON **Clement GARCIA **Yann BLANC
 
 ### 📋 Description
 Les hôpitaux représentent des cibles privilégiées pour les cyberattaques en raison de la nature critique et sensible de leurs données. Ce projet vise à sécuriser l'infrastructure d'un hôpital fictif contre les cybermenaces modernes.
