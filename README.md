@@ -1,5 +1,5 @@
-# Projet Fil Rouge - Spécialité Cybersécurité
-## Sécurisation d'un hôpital contre les cyberattaques
+# 📍​Projet Fil Rouge - Spécialité Cybersécurité
+## 🫆​Sécurisation d'un hôpital contre les cyberattaques
 
 ### 🏥 Contexte du projet
 **Entreprise fictive :** CHU de Ynov  
