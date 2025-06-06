@@ -85,13 +85,17 @@ Les hôpitaux représentent des cibles privilégiées pour les cyberattaques en 
 ### 📁 Structure du projet
 
 ```
+__Analyse_des_risques.pdf
+
 __Document_Architectur_Technique.pdf
 
-__Guide_Exploitation_Infrastructure IT.pdf
-
-__PSSI___CHYNOV.pdf
+__POLITIQUE_DE_SÉCURITÉ_DES_SYSTÈMES_D_INFORMATION__PSSI_.pdf
 
 __README.md
+
+__Support_Oral.pdf
+
+__Tableau bilan des ameliorarion du SI.pdf
 
 ```
 
@@ -103,28 +107,6 @@ __README.md
 - **Exploitation :** Guide d'utilisation des outils et services
 - **PSSI :** Politique de sécurité complète
 
-### 🎖️ Bonus
-Attestation de suivi SecNumAcadémie avec succès de 4 modules du MOOC ANSSI et scores obtenus.
-
-### ⚡ Installation et déploiement
-
-1. **Cloner le repository**
-   ```bash
-   git clone [https://github.com/M1ck3y-ru/PROJET_FILE_ROUGE.git]
-   cd PROJET_FILE_ROUGE
-   ```
-
-2. **Configuration de l'environnement**
-   ```bash
-   # Configuration des machines virtuelles
-   # Voir docs/installation/setup-guide.md
-   ```
-
-3. **Déploiement des services**
-   ```bash
-   # Scripts de déploiement automatisé
-   ./scripts/deploy-security-stack.sh
-   ```
 
 ### 📈 Évaluation
 L'évaluation porte sur :
