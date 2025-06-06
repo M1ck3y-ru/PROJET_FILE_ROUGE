@@ -84,31 +84,14 @@ Les hôpitaux représentent des cibles privilégiées pour les cyberattaques en 
 ### 📁 Structure du projet
 
 ```
-├── docs/
-│   ├── architecture/
-│   │   ├── network-design.md
-│   │   ├── services-deployment.md
-│   │   └── security-architecture.md
-│   ├── exploitation/
-│   │   ├── tools-usage.md
-│   │   ├── backup-procedures.md
-│   │   └── incident-response.md
-│   ├── pssi/
-│   │   ├── security-policy.md
-│   │   ├── compliance-procedures.md
-│   │   └── risk-assessment.md
-│   └── pentest/
-│       ├── vulnerability-scan-results.md
-│       ├── penetration-test-report.md
-│       └── recommendations.md
-├── scripts/
-│   ├── backup/
-│   ├── monitoring/
-│   └── security/
-└── configs/
-    ├── firewall/
-    ├── ids-ips/
-    └── services/
+__Document_Architectur_Technique.pdf
+
+__Guide_Exploitation_Infrastructure IT.pdf
+
+__PSSI___CHYNOV.pdf
+
+__README.md
+
 ```
 
 ### 📊 Livrables
